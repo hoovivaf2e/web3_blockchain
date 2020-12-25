@@ -1,5 +1,5 @@
 # web3_blockchain
-web3.js connect to private blockchain
+Use web3.js connecting to private blockchain
 
 ## start
 ```javascript
